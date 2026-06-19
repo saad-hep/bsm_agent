@@ -25,3 +25,20 @@ Create a Python environment and install from the repository root:
 ```bash
 pip install -e .
 ```
+
+## Citation
+
+If you use `bsm_agent` in your research or reference the LLM-assisted workflow, please cite the accompanying paper:
+
+```bibtex
+@article{saad:2026xyz,
+    author        = "Saad, Shaikh",
+    title         = "{Large Language Model-Assisted Framework for BSM Model Building}",
+    eprint        = "26xx.xxxxx",
+    archivePrefix = "arXiv",
+    primaryClass  = "hep-ph",
+    year          = "2026"
+}
+```
+
+
