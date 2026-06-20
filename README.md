@@ -41,7 +41,8 @@ If you use `bsm_agent` in your research or reference the LLM-assisted workflow, 
 }
 ```
 
-**Plain Text:**  
+## Quick Start  
+Please see Appendix A of the arXiv pre-paper:
 *Shaikh Saad, "Large Language Model-Assisted Framework for BSM Model Building", [arXiv:26xx.xxxxx [hep-ph]](https://arxiv.org).*
 
 
