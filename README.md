@@ -23,7 +23,7 @@ The repository also includes the LLM-assisted workflow used to generate model re
 Create a Python environment and install from the repository root:
 
 ```bash
-pip install -e .
+pip install .
 ```
 
 ## Citation
