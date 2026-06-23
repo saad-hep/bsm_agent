@@ -34,7 +34,7 @@ If you use `bsm_agent` in your research or reference the LLM-assisted workflow, 
 @article{saad:2026xyz,
     author        = "Saad, Shaikh",
     title         = "{Large Language Model-Assisted Framework for BSM Model Building}",
-    eprint        = "26xx.xxxxx",
+    eprint        = "2606.21316",
     archivePrefix = "arXiv",
     primaryClass  = "hep-ph",
     year          = "2026"
@@ -44,6 +44,6 @@ If you use `bsm_agent` in your research or reference the LLM-assisted workflow, 
 ## Quick Start  
 Please see Appendix A of the arXiv pre-print:
 
-*Shaikh Saad, "Large Language Model-Assisted Framework for BSM Model Building", [arXiv:26xx.xxxxx [hep-ph]](https://arxiv.org).*
+*Shaikh Saad, "Large Language Model-Assisted Framework for BSM Model Building", [arXiv:2606.21316 [hep-ph]]([https://arxiv.org](https://arxiv.org/abs/2606.21316)).*
 
 
