@@ -31,13 +31,14 @@ pip install -e .
 If you use `bsm_agent` in your research or reference the LLM-assisted workflow, please cite the accompanying paper:
 
 ```bibtex
-@article{saad:2026xyz,
-    author        = "Saad, Shaikh",
-    title         = "{Large Language Model-Assisted Framework for BSM Model Building}",
-    eprint        = "2606.21316",
+@article{Saad:2026pan,
+    author = "Saad, Shaikh",
+    title = "{Large Language Model-Assisted Framework for BSM Model Building}",
+    eprint = "2606.21316",
     archivePrefix = "arXiv",
-    primaryClass  = "hep-ph",
-    year          = "2026"
+    primaryClass = "hep-ph",
+    month = "6",
+    year = "2026"
 }
 ```
 
